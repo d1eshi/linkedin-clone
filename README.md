@@ -1,5 +1,5 @@
 # Linkedin Clone
-This is a project made with React and implementation of Backend in Firebase. The principal funtions actually are Login with Google (Logout), and Create Publications.
+This is a project made with React and implementation of Backend in Firebase. The principal funtions are Login with Google (Logout), and Create Publications.
 
 ## This project covers the following:
 
